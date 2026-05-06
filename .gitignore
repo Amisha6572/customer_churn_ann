@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Old / incompatible model files (not needed on cloud)
+churn_pred_model.h5
+churn_pred_model.keras
+churn_pred_model_new.keras
+churn_pred_model_v2.keras
+
+# Jupyter
+*.ipynb_checkpoints/
+ANN_assignment (1).ipynb
+
+# OS
+.DS_Store
+Thumbs.db
