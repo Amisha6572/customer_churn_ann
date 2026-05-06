@@ -1,5 +1,6 @@
 streamlit
-pandas
 numpy
-tensorflow
+pandas
 scikit-learn
+tensorflow-cpu
+pillow
